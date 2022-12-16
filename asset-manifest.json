@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/calculadora/static/js/main.d23a6148.js",
+    "index.html": "/calculadora/index.html",
+    "main.d23a6148.js.map": "/calculadora/static/js/main.d23a6148.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d23a6148.js"
+  ]
+}
