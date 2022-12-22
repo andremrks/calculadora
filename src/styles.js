@@ -3,11 +3,15 @@ import styled from "styled-components";
 export const Container = styled.div`
     width: 100%;
     height: 100vh;
-    background-color: #767a99;
 
     display: flex;
     justify-content: center;
     align-items: center;
+
+    @media only screen and (min-width: 768px) {
+        margin: 0 auto;
+        width: 40%;
+    }
 `
 
 export const Content = styled.div`
