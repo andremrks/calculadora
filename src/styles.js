@@ -10,7 +10,7 @@ export const Container = styled.div`
 
     @media only screen and (min-width: 768px) {
         margin: 0 auto;
-        width: 40%;
+        width: 30%;
     }
 `
 
